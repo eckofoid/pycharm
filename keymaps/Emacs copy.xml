@@ -1,0 +1,5 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="AttachProject">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+  </action>
+</keymap>
